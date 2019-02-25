@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Escenarios Deportivos APIREST</string>
+    <string name="Titulo">Escenarios deportivos en Pasto</string>
+    <string name="Desarrollado">Desarrollado por:</string>
+    <string name="Nombre">Snyder Guerrero</string>
+    <string name="Estudiante">Estudiante de Ingeniería de Sistemas</string>
+    <string name="Universidad">Universidad de Nariño</string>
+    <string name="acercade">Acerca de</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Sport Places APIREST</string>
+    <string name="Titulo">Sport places in Pasto</string>
+    <string name="Desarrollado">Developed by :</string>
+    <string name="Nombre">Snyder Guerrero</string>
+    <string name="Estudiante">Student of System Engineering</string>
+    <string name="Universidad">University of Nariño</string>
+    <string name="Comuna1" translatable="false">Comuna 1</string>
+    <string name="Comuna2" translatable="false">Comuna 2</string>
+    <string name="Comuna3" translatable="false">Comuna 3</string>
+    <string name="Comuna4" translatable="false">Comuna 4</string>
+    <string name="Comuna5" translatable="false">Comuna 5</string>
+    <string name="Comuna6" translatable="false">Comuna 6</string>
+    <string name="Comuna7" translatable="false">Comuna 7</string>
+    <string name="Comuna8" translatable="false">Comuna 8</string>
+    <string name="Comuna9" translatable="false">Comuna 9</string>
+    <string name="Comuna10" translatable="false">Comuna10</string>
+    <string name="Comuna11" translatable="false">Comuna 11</string>
+    <string name="Comuna12" translatable="false">Comuna 12</string>
+
+    <string name="RComuna1" translatable="false">Comuna 1</string>
+    <string name="RComuna2" translatable="false">Comuna 2</string>
+    <string name="RComuna3" translatable="false">Comuna 3</string>
+    <string name="RComuna4" translatable="false">Comuna 4</string>
+    <string name="RComuna5" translatable="false">Comuna 5</string>
+    <string name="RComuna6" translatable="false">Comuna 6</string>
+    <string name="RComuna7" translatable="false">Comuna 7</string>
+    <string name="RComuna8" translatable="false">Comuna 8</string>
+    <string name="RComuna9" translatable="false">Comuna 9</string>
+    <string name="RComuna10" translatable="false">Comuna10</string>
+    <string name="RComuna11" translatable="false">Comuna 11</string>
+    <string name="RComuna12" translatable="false">Comuna 12</string>
+    <string name="acercade">About</string>
+
+</resources>
